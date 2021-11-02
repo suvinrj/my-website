@@ -1,0 +1,21 @@
+* {
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 0;
+  background-color: dimgrey;
+}
+body {
+  color: antiquewhite;
+}
+::content {
+  max-width: 960;
+  margin: auto;
+  text-align: center;
+}
+/* .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+} */
