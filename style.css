@@ -2,19 +2,19 @@
   margin-left: auto;
   margin-right: auto;
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-  text-align: center;
 
   padding: 0;
   background-color: dimgrey;
 }
-body {
+h1 {
   color: rgb(72, 195, 252);
   font-family: 'Open Sans', serif;
-  font-size: 150%;
+  font-size: 120%;
+  text-align: center;
 }
 ::content {
   max-width: 960;
-  margin: auto;
+  margin: 0;
   text-align: center;
 }
 
@@ -31,4 +31,15 @@ body {
 
 h2 {
   margin-left: 15px;
+  text-align: center;
+}
+
+button {
+  background-color: aliceblue;
+}
+
+iframe {
+  width: 425px;
+  height: 240px;
+  align-content: top;
 }
