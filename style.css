@@ -1,9 +1,9 @@
 * {
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
-  padding: 0;
+  padding: 10;
   background-color: dimgrey;
 }
 h1 {
@@ -12,25 +12,24 @@ h1 {
   font-size: 120%;
   text-align: center;
 }
-::content {
+/* ::content {
   max-width: 960;
   margin: 0;
   text-align: center;
-}
+} */
 
-.center {
-  display: block;
+/* .center {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-}
+} */
 
 .logos {
   margin-left: 20px;
 }
 
 h2 {
-  margin-left: 15px;
+  margin-left: 10px;
   text-align: center;
 }
 
@@ -39,7 +38,13 @@ button {
 }
 
 iframe {
-  width: 425px;
-  height: 240px;
-  align-content: top;
+  width: 432px;
+  height: 247px;
+}
+
+.image {
+  float: center;
+  width: 19.33%;
+  padding: 0;
+  height: auto;
 }
