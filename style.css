@@ -2,7 +2,7 @@
   /* margin-left: auto;
   margin-right: auto; */
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
+  position: relative;
   padding: 10;
   background-color: dimgrey;
 }
